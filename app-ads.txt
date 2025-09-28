@@ -1,4 +1,5 @@
 google.com, pub-2004031337317354, DIRECT, f08c47fec0942fa0
+facebook.com, 732594217889896, DIRECT, c3e20eee3f780d68
 toponad.com, 165ad59822a82f, DIRECT, 1d49fe424a1a456d
 acexchange.co.kr, 1368497933, RESELLER
 adingo.jp, 32534, RESELLER
