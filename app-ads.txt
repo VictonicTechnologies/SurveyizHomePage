@@ -1,5 +1,6 @@
 
 google.com, pub-2004031337317354, DIRECT, f08c47fec0942fa0
+facebook.com, 882708811406582, DIRECT, c3e20eee3f780d68
 facebook.com, 732594217889896, DIRECT, c3e20eee3f780d68
 facebook.com, 1349133836739819, DIRECT, c3e20eee3f780d68
 toponad.com, 165ad59822a82f, DIRECT, 1d49fe424a1a456d
